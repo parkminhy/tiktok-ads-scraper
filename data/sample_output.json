@@ -1,0 +1,42 @@
+[
+  {
+    "adId": "1750117232800785",
+    "adTitle": "Mallows Beauty",
+    "adType": "2",
+    "adVideoUrl": "https://v16m.tiktokcdn.com/00a1cd3546e573b863a3af54e0ae8a7d/652af7e6/video/tos/alisg/tos-alisg-v-0000/04ba2e7719aa4466817cbb8e83cd9816/",
+    "adVideoCover": "https://p19-csp-adlib-site-sign-sg.ibyteimg.com/v0201/4c50cba59bf949fb8def1c73359a0a42.webp",
+    "adStartDate": 1668988800000,
+    "adEndDate": 1672185600000,
+    "advertiserId": "6916504448172819201",
+    "advertiserName": "Mallows Beauty",
+    "adImpressions": "10K-100K",
+    "advertiserPaidForBy": "Wayflyer Limited (GBP)",
+    "adTotalRegions": 1,
+    "adEstimatedAudience": "10K-100K",
+    "targetingByLocation": [
+      {
+        "region": "GB",
+        "impressions": "21K"
+      }
+    ],
+    "targetingByAge": [
+      {
+        "region": "GB",
+        "13-17": false,
+        "18-24": true,
+        "25-34": true,
+        "35-44": true,
+        "45-54": false,
+        "55+": false
+      }
+    ],
+    "targetingByGender": [
+      {
+        "region": "GB",
+        "female": true,
+        "male": false,
+        "unknown": false
+      }
+    ]
+  }
+]
