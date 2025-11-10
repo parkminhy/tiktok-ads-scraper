@@ -1,0 +1,9 @@
+{
+  "base_url": "https://ads.tiktok.com/api/example/adlibrary",
+  "default_query": "Mallows Beauty",
+  "default_region": "GB",
+  "default_pages": 1,
+  "default_output_format": "json",
+  "output_dir": "data",
+  "sleep_between_requests": 0.5
+}
